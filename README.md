@@ -151,6 +151,7 @@ Exercise_1/
 ├── /Exercise_3/
 ├── /Exercise_4/
 ├── /Exercise_5/
+├── LICENSE
 ├── MyMeasure.py
 ├── README.md
 └── requirements.txt
