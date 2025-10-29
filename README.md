@@ -29,7 +29,7 @@
 ## Εγκατάσταση Movella DOT SDK
 
 1. Μεταβείτε στην επίσημη σελίδα της Movella:
-   🔗 [https://developer.movella.com/downloads](https://developer.movella.com/downloads)
+   🔗 [https://www.movella.com/support/software-documentation](https://www.movella.com/support/software-documentation)
 
 2. Κατεβάστε το **Movella DOT PC SDK (Windows)**.
 
