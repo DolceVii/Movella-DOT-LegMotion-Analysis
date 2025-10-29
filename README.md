@@ -68,7 +68,7 @@
 Κάθε φάκελος αντιπροσωπεύει **μία ξεχωριστή άσκηση**:
 
 ```
-Exercise_1/
+1/
 │
 ├── all_data_excel_files.xlsx
 ├── D4-22-CD-00-A8-13_data.xlsx     # Μηρός
@@ -146,11 +146,11 @@ Exercise_1/
 
 ```
 .
-├── /Exercise_1/
-├── /Exercise_2/
-├── /Exercise_3/
-├── /Exercise_4/
-├── /Exercise_5/
+├── /1/
+├── /2/
+├── /3/
+├── /4/
+├── /5/
 ├── LICENSE
 ├── MyMeasure.py
 ├── README.md
